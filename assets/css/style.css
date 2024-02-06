@@ -1,0 +1,21 @@
+.files{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+.contacts{
+    display: flex;
+    justify-content: center;
+    gap: 6em;
+}
+.social-links{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
